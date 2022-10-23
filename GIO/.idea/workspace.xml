@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="660e34d1-1f30-48e9-af40-cb0740d0a228" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../imprime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../imprime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../imprime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
